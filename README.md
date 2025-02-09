@@ -12,10 +12,3 @@ Uruchomienie:
 3. Uzupełnij dane o bazie danych w pliku .env
 4. Uruchom aplikację
 
-Screeny:
-![screen 1](https://github.com/user-attachments/assets/07c6e895-07a1-4272-ba01-7b4b32286c22)
-
-![screen 2](https://github.com/user-attachments/assets/b1815c5e-c761-4a2a-a1fe-e48bc9cd265f)
-
-![screen 3](https://github.com/user-attachments/assets/57ee6a1b-8d1d-48c6-80f5-86c01c945073)
-
